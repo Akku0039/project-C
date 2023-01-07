@@ -1,0 +1,102 @@
+.box{
+    height: 661px;
+    width: 1643px;
+    left: 38px;
+    top: 47px;
+    border-radius: 0px;
+    position: absolute;
+width: 1643px;
+height: 661px;
+left: 38px;
+top: 47px;
+
+     
+}
+.box{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1643px;
+height: 648.57px;
+left: 38px;
+top: 47px;
+
+border: 2px solid #000000;
+}
+h1{
+   
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-decoration-line: underline;
+    
+    color: #000000;
+}
+.box  .p{
+font-family: Inter;
+font-size: 40px;
+font-weight: 400;
+line-height: 48.41px;
+X: 89px;
+Y: 94.46px;
+W: 1540.51px;
+H: 613.54px;
+X constraint: Left;
+Y constraint: Top;
+Font family: Inter;
+Font style: Mixed;
+Font size: (mixed);
+Line height: 100%;
+Align: Left;
+Vertical align: Top;
+Fill: Solid;
+}
+.box .p-link{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48.41px;  
+}
+.image{
+ 
+position: absolute;
+width: 1051px;
+height: 894px;
+left: 58px;
+top: 742px;
+
+
+
+}
+img{
+width: 1051px;
+height: 762px;
+left: 58px;
+top: 874px;
+}
+.image .img-link{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48.41px; 
+}
+
+.info{
+    height: 469px;
+    width: 1623px;
+    left: 58px;
+    top: 1795px;
+    border-radius: nullpx;
+    position: absolute;
+
+     
+}
+ol{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48.41px; 
+}
